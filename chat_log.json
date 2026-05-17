@@ -375,5 +375,9 @@
   {"data": "05/17 02:58", "race": "acc", "mensagem": "[ACC] TestPlayer : hello world with linebreak"},
   {"data": "05/17 02:58", "race": "acc", "mensagem": "[ACC] TestPlayer : second message"},
   {"data": "05/17 03:01", "race": "acc", "mensagem": "[ACC] TestPlayer : hello world with linebreak"},
-  {"data": "05/17 03:01", "race": "acc", "mensagem": "[ACC] TestPlayer : second message"}
+  {"data": "05/17 03:01", "race": "acc", "mensagem": "[ACC] TestPlayer : second message"},
+  {"data": "05/17 03:09", "race": "bell", "mensagem": "XTz : defende o cb! [03:09:45.120]"},
+  {"data": "05/17 03:09", "race": "acc", "mensagem": "x9eVALA : buff no camp [03:09:45.120]"},
+  {"data": "05/17 03:09", "race": "bell", "mensagem": "XTz : vamo nuke agora? [03:09:45.120]"},
+  {"data": "05/17 03:09", "race": "acc", "mensagem": "x9eVALA : quem ta online agora? [03:09:45.120]"}
 ]
