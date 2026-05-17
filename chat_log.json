@@ -373,5 +373,7 @@
   {"data": "05/17 02:45", "race": "acc", "mensagem": "[ACC] TestPlayer : hello world with linebreak"},
   {"data": "05/17 02:45", "race": "acc", "mensagem": "[ACC] TestPlayer : second message"},
   {"data": "05/17 02:58", "race": "acc", "mensagem": "[ACC] TestPlayer : hello world with linebreak"},
-  {"data": "05/17 02:58", "race": "acc", "mensagem": "[ACC] TestPlayer : second message"}
+  {"data": "05/17 02:58", "race": "acc", "mensagem": "[ACC] TestPlayer : second message"},
+  {"data": "05/17 03:01", "race": "acc", "mensagem": "[ACC] TestPlayer : hello world with linebreak"},
+  {"data": "05/17 03:01", "race": "acc", "mensagem": "[ACC] TestPlayer : second message"}
 ]
