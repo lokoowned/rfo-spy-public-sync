@@ -387,5 +387,9 @@
   {"data": "05/17 03:12", "race": "acc", "mensagem": "x9eVALA : vai virar nuke em 5min [03:12:20.051]"},
   {"data": "05/17 03:12", "race": "bell", "mensagem": "XTz : fui morto perto do spy [03:12:20.051]"},
   {"data": "05/17 03:12", "race": "acc", "mensagem": "x9eVALA : vamo nuke agora? [03:12:20.051]"},
-  {"data": "05/17 03:12", "race": "bell", "mensagem": "XTz : onde ta o lider? [03:12:20.051]"}
+  {"data": "05/17 03:12", "race": "bell", "mensagem": "XTz : onde ta o lider? [03:12:20.051]"},
+  {"data": "05/17 03:35", "race": "bell", "mensagem": "XTz : cuidado tem acc no mapa [03:35:45.119]"},
+  {"data": "05/17 03:35", "race": "acc", "mensagem": "x9eVALA : precisamos de mais gente [03:35:45.119]"},
+  {"data": "05/17 03:35", "race": "acc", "mensagem": "x9eVALA : nao deixa o cb cair [03:35:45.119]"},
+  {"data": "05/17 03:35", "race": "bell", "mensagem": "XTz : vamo nuke agora? [03:35:45.119]"}
 ]
