@@ -1,6 +1,6 @@
 {
-  "updated": "19/05/2026 02:43:38",
-  "count": 64,
+  "updated": "19/05/2026 02:43:55",
+  "count": 65,
   "entries": [
     {
       "myrace": "bell",
@@ -120,6 +120,11 @@
     {
       "myrace": "bell",
       "nickname": "a;—~e",
+      "status": "Mining Area"
+    },
+    {
+      "myrace": "bell",
+      "nickname": "a__________________—",
       "status": "Mining Area"
     },
     {
