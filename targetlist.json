@@ -1,6 +1,6 @@
 {
-  "updated": "19/05/2026 02:43:28",
-  "count": 59,
+  "updated": "19/05/2026 02:43:32",
+  "count": 61,
   "entries": [
     {
       "myrace": "bell",
@@ -169,6 +169,11 @@
     },
     {
       "myrace": "bell",
+      "nickname": "mmm",
+      "status": "Mining Area"
+    },
+    {
+      "myrace": "bell",
       "nickname": "Nee",
       "status": "Mining Area"
     },
@@ -180,6 +185,11 @@
     {
       "myrace": "bell",
       "nickname": "ogel:WISGLIASTACI",
+      "status": "Mining Area"
+    },
+    {
+      "myrace": "bell",
+      "nickname": "OOEEE",
       "status": "Mining Area"
     },
     {
