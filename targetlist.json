@@ -1,6 +1,6 @@
 {
-  "updated": "19/05/2026 03:15:36",
-  "count": 125,
+  "updated": "19/05/2026 03:15:43",
+  "count": 126,
   "entries": [
     {
       "myrace": "acc",
@@ -155,6 +155,11 @@
     {
       "myrace": "acc",
       "nickname": "?_——_—_——",
+      "status": "Mining Area"
+    },
+    {
+      "myrace": "acc",
+      "nickname": "?_——_—_——!",
       "status": "Mining Area"
     },
     {
