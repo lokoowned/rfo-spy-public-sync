@@ -1,6 +1,6 @@
 {
-  "updated": "19/05/2026 02:49:10",
-  "count": 81,
+  "updated": "19/05/2026 02:49:21",
+  "count": 82,
   "entries": [
     {
       "myrace": "bell",
@@ -285,6 +285,11 @@
     {
       "myrace": "bell",
       "nickname": "TORMe",
+      "status": "Mining Area"
+    },
+    {
+      "myrace": "bell",
+      "nickname": "Vvscript:Controlle",
       "status": "Mining Area"
     },
     {
