@@ -1,24 +1,29 @@
-{
-  "online_counsil": [
-    "DarkHermes",
-    "Tugella",
-    "xCrying",
-    "ARKANO",
-    "Best"
-  ],
-  "offline_counsil": [
-    "Damager",
-    "Viking",
-    "NewBalance",
-    "Premol",
-    "Doomsday",
-    "Maeda",
-    "SOUNDWAVE",
-    "Bahamut",
-    "BurgerKiller",
-    "Jet",
-    "DEPUTAT",
-    "Akril",
-    "HerrMajor"
-  ]
-}
+[
+  {
+    "cw": "cw1",
+    "server": "default",
+    "date": "2026-05-19",
+    "online": [
+      "HajiYanto",
+      "xGODSPEED",
+      "ARKANO",
+      "FusionKnight",
+      "Jet",
+      "DarkHermes",
+      "Jhin",
+      "Gio",
+      "BooDa"
+    ],
+    "offline": [
+      "Tugella",
+      "J4HAD",
+      "TheBest",
+      "NewNoise",
+      "BlackBeard",
+      "Damager",
+      "SOUNDWAVE",
+      "xGrom",
+      "OneStaks"
+    ]
+  }
+]
