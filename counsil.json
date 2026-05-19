@@ -457,5 +457,32 @@
       "OneStaks",
       "TheBest"
     ]
+  },
+  {
+    "cw": "manual",
+    "server": "default",
+    "date": "2026-05-19",
+    "online": [
+      "Jhin",
+      "HajiYanto",
+      "Gio",
+      "xGODSPEED",
+      "Tugella",
+      "ARKANO",
+      "FusionKnight",
+      "Jet",
+      "BooDa",
+      "DarkHermes"
+    ],
+    "offline": [
+      "NewNoise",
+      "BlackBeard",
+      "J4HAD",
+      "Damager",
+      "SOUNDWAVE",
+      "xGrom",
+      "TheBest",
+      "OneStaks"
+    ]
   }
 ]
