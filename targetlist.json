@@ -1,6 +1,6 @@
 {
-  "updated": "19/05/2026 02:49:35",
-  "count": 88,
+  "updated": "19/05/2026 02:49:44",
+  "count": 89,
   "entries": [
     {
       "myrace": "bell",
@@ -180,6 +180,11 @@
     {
       "myrace": "acc",
       "nickname": "DAGEPTAIC|",
+      "status": "Mining Area"
+    },
+    {
+      "myrace": "acc",
+      "nickname": "DAMEPTAIC",
       "status": "Mining Area"
     },
     {
