@@ -1,6 +1,6 @@
 {
-  "updated": "19/05/2026 02:48:37",
-  "count": 71,
+  "updated": "19/05/2026 02:48:50",
+  "count": 72,
   "entries": [
     {
       "myrace": "bell",
@@ -230,6 +230,11 @@
     {
       "myrace": "bell",
       "nickname": "S@®config.exai",
+      "status": "Mining Area"
+    },
+    {
+      "myrace": "acc",
+      "nickname": "SS.",
       "status": "Mining Area"
     },
     {
