@@ -596,5 +596,53 @@
       "ICB",
       "OneStaks"
     ]
+  },
+  {
+    "cw": "manual",
+    "server": "default",
+    "date": "2026-05-19",
+    "online": [
+      "HajiYanto",
+      "xGODSPEED",
+      "Jhin",
+      "Gio",
+      "Tugella",
+      "J4HAD",
+      "ARKANO",
+      "FusionKnight",
+      "Jet",
+      "Damager",
+      "TheBest",
+      "DarkHermes"
+    ],
+    "offline": [
+      "NewNoise",
+      "BlackBeard",
+      "SOUNDWAVE",
+      "xGrom"
+    ]
+  },
+  {
+    "cw": "manual",
+    "server": "default",
+    "date": "2026-05-19",
+    "online": [
+      "Jhin",
+      "HajiYanto",
+      "Gio",
+      "xGODSPEED",
+      "Tugella",
+      "J4HAD",
+      "ARKANO",
+      "NewNoise",
+      "FusionKnight",
+      "BlackBeard",
+      "Jet",
+      "Damager",
+      "TheBest",
+      "DarkHermes",
+      "ICB"
+    ],
+    "offline": []
   }
 ]
