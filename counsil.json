@@ -1351,5 +1351,65 @@
       "BooDa",
       "OneStaks"
     ]
+  },
+  {
+    "cw": "manual",
+    "server": "default",
+    "date": "2026-05-20",
+    "online": [
+      "HajiYanto",
+      "xGODSPEED",
+      "Jhin",
+      "J4HAD",
+      "ARKANO",
+      "FusionKnight",
+      "Jet",
+      "DarkHermes",
+      "xLokoOwneD"
+    ],
+    "offline": [
+      "Tugella",
+      "Gio",
+      "NewNoise",
+      "BlackBeard",
+      "Damager",
+      "TheBest",
+      "SOUNDWAVE",
+      "xGrom",
+      "ICB",
+      "BooDa",
+      "Picing",
+      "OneStaks"
+    ]
+  },
+  {
+    "cw": "cw1",
+    "server": "default",
+    "date": "2026-05-20",
+    "online": [
+      "Jhin",
+      "HajiYanto",
+      "xGODSPEED",
+      "J4HAD",
+      "ARKANO",
+      "FusionKnight",
+      "Jet",
+      "DarkHermes",
+      "xLokoOwneD"
+    ],
+    "offline": [
+      "Tugella",
+      "Gio",
+      "NewNoise",
+      "TheBest",
+      "BlackBeard",
+      "Damager",
+      "ICB",
+      "SOUNDWAVE",
+      "Picing",
+      "xGrom",
+      "BooDa",
+      "OneStaks"
+    ]
   }
 ]
