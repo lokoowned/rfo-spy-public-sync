@@ -1531,5 +1531,35 @@
       "OneStaks",
       "Picing"
     ]
+  },
+  {
+    "cw": "cw1",
+    "server": "default",
+    "date": "2026-05-20",
+    "online": [
+      "Jhin",
+      "HajiYanto",
+      "xGODSPEED",
+      "J4HAD",
+      "ARKANO",
+      "FusionKnight",
+      "Jet",
+      "DarkHermes",
+      "xLokoOwneD"
+    ],
+    "offline": [
+      "Gio",
+      "Tugella",
+      "NewNoise",
+      "BlackBeard",
+      "TheBest",
+      "Damager",
+      "SOUNDWAVE",
+      "ICB",
+      "xGrom",
+      "Picing",
+      "BooDa",
+      "OneStaks"
+    ]
   }
 ]
