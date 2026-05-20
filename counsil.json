@@ -673,5 +673,45 @@
       "TheBest",
       "ICB"
     ]
+  },
+  {
+    "cw": "manual",
+    "server": "default",
+    "date": "2026-05-19",
+    "online": [
+      "Jhin"
+    ],
+    "offline": [
+      "HajiYanto"
+    ]
+  },
+  {
+    "cw": "manual",
+    "server": "default",
+    "date": "2026-05-19",
+    "online": [
+      "HajiYanto",
+      "xGODSPEED",
+      "Jhin",
+      "J4HAD",
+      "ARKANO",
+      "Jet",
+      "DarkHermes",
+      "xLokoOwneD"
+    ],
+    "offline": [
+      "Gio",
+      "Tugella",
+      "NewNoise",
+      "BlackBeard",
+      "FusionKnight",
+      "Damager",
+      "SOUNDWAVE",
+      "xGrom",
+      "BooDa",
+      "TheBest",
+      "OneStaks",
+      "ICB"
+    ]
   }
 ]
