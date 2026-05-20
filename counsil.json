@@ -742,5 +742,34 @@
       "OneStaks",
       "ICB"
     ]
+  },
+  {
+    "cw": "manual",
+    "server": "default",
+    "date": "2026-05-19",
+    "online": [
+      "Jhin",
+      "xGODSPEED",
+      "J4HAD",
+      "ARKANO",
+      "FusionKnight",
+      "Jet",
+      "DarkHermes",
+      "xLokoOwneD"
+    ],
+    "offline": [
+      "HajiYanto",
+      "Gio",
+      "NewNoise",
+      "Tugella",
+      "BlackBeard",
+      "Damager",
+      "SOUNDWAVE",
+      "xGrom",
+      "BooDa",
+      "TheBest",
+      "OneStaks",
+      "ICB"
+    ]
   }
 ]
