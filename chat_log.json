@@ -1135,5 +1135,7 @@
   {"data": "05/21 00:56", "race": "bell", "mensagem": "jet : bccc"},
   {"data": "05/21 00:56", "race": "bell", "mensagem": "jet : bcc"},
   {"data": "05/21 00:56", "race": "bell", "mensagem": "jet : rg bcc"},
-  {"data": "05/21 00:56", "race": "acc", "mensagem": "blackbeard : dps dps"}
+  {"data": "05/21 00:56", "race": "acc", "mensagem": "blackbeard : dps dps"},
+  {"data": "05/21 00:56", "race": "acc", "mensagem": "blackbeard : dps cc"},
+  {"data": "05/21 00:56", "race": "acc", "mensagem": "blackbeard : dps ccc"}
 ]
