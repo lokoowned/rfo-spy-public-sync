@@ -1711,5 +1711,35 @@
       "Picing",
       "xLokoOwneD"
     ]
+  },
+  {
+    "cw": "cw1",
+    "server": "default",
+    "date": "2026-05-21",
+    "online": [
+      "HajiYanto",
+      "xGODSPEED",
+      "Tugella",
+      "J4HAD",
+      "ARKANO",
+      "BlackBeard",
+      "FusionKnight",
+      "Jet",
+      "DarkHermes",
+      "xLokoOwneD"
+    ],
+    "offline": [
+      "Jhin",
+      "Gio",
+      "NewNoise",
+      "Damager",
+      "TheBest",
+      "SOUNDWAVE",
+      "xGrom",
+      "BooDa",
+      "OneStaks",
+      "ICB",
+      "Picing"
+    ]
   }
 ]
