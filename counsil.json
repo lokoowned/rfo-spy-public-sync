@@ -2143,10 +2143,7 @@
       "ARKANO",
       "FusionKnight",
       "Jet",
-      "DarkHermes"
-    ],
-    "offline": [
-      "Jhin",
+      "DarkHermes",      
       "Gio",
       "NewNoise",
       "BlackBeard",
@@ -2154,7 +2151,10 @@
       "Damager",
       "SOUNDWAVE",
       "xGrom",
-      "BooDa",
+      "BooDa"
+    ],
+    "offline": [
+      "Jhin",
       "TheBest",
       "OneStaks",
       "ICB",
