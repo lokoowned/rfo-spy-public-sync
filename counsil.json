@@ -2143,7 +2143,10 @@
       "ARKANO",
       "FusionKnight",
       "Jet",
-      "DarkHermes",      
+      "DarkHermes"
+    ],
+    "offline": [
+      "Jhin",
       "Gio",
       "NewNoise",
       "BlackBeard",
@@ -2151,14 +2154,41 @@
       "Damager",
       "SOUNDWAVE",
       "xGrom",
-      "BooDa"
-    ],
-    "offline": [
-      "Jhin",
+      "BooDa",
       "TheBest",
       "OneStaks",
       "ICB",
       "xLokoOwneD",
+      "Picing"
+    ]
+  },
+  {
+    "cw": "manual",
+    "server": "default",
+    "date": "2026-05-23",
+    "online": [
+      "Jhin",
+      "Gio",
+      "BlackBeard",
+      "J4HAD",
+      "Damager",
+      "ARKANO",
+      "SOUNDWAVE",
+      "xGrom",
+      "BooDa",
+      "Jet",
+      "xLokoOwneD"
+    ],
+    "offline": [
+      "HajiYanto",
+      "xGODSPEED",
+      "NewNoise",
+      "Tugella",
+      "FusionKnight",
+      "OneStaks",
+      "TheBest",
+      "DarkHermes",
+      "ICB",
       "Picing"
     ]
   }
