@@ -1,8 +1,4 @@
 [
   {"checked_at": "2026-05-18T02:59:10.926103", "online_counsil": [], "offline_counsil": ["Damager", "Viking", "Doomsday", "SOUNDWAVE", "BurgerKiller"], "checklist": {"xLokoOwneD": "cora", "XinNovus": "cora", "Hpk": "cora", "GranD": "cora", "Mrak": "cora", "Inside": "cora", "kreempleen": "cora", "Amoralno": "cora", "Aisengarth": "cora", "DarkHermes": "bell", "Tugella": "bell", "xCrying": "bell", "NewBalance": "bell", "ARKANO": "bell", "Maeda": "bell", "Best": "bell", "Bahamut": "bell", "Jet": "bell", "Damager": "acc", "Viking": "acc", "Premol": "acc", "Doomsday": "acc", "SOUNDWAVE": "acc", "BurgerKiller": "acc", "DEPUTAT": "acc", "Akril": "acc", "HerrMajor": "acc"}},
-  {"data": "23/05/2026 17:28", "info": "Movimentando", "msgtype": "warning", "race": "acc"},
-  {"data": "25/05/2026 00:08", "info": "Movimentando", "msgtype": "warning", "race": "bell"},
-  {"data": "25/05/2026 00:09", "info": "Movimentando", "msgtype": "warning", "race": "bell"},
-  {"data": "25/05/2026 00:13", "info": "Movimentando", "msgtype": "warning", "race": "bell"},
-  {"data": "25/05/2026 00:15", "info": "Movimentando", "msgtype": "warning", "race": "bell"}
+  {"data": "26/05/2026 16:16", "info": "[AutoLogin] Confirmação de login falhou para 'XTz' (tentativa 1/3)", "msgtype": "error"}
 ]
