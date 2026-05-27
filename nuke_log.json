@@ -1,16 +1,16 @@
 {
   "_relatorio": {
-      "total_nukes": 246,
-      "ultima_atualizacao": "27/05/2026 17:01",
+      "total_nukes": 247,
+      "ultima_atualizacao": "27/05/2026 17:23",
       "por_raca": {
-          "acc": 78,
+          "acc": 79,
           "bell": 83,
           "cora": 2,
           "start_sound": 83
       },
       "por_servidor": {
           "desconhecido": 7,
-          "default": 239
+          "default": 240
       }
   },
   "registros": [
@@ -259,6 +259,7 @@
     {"order_id": 244, "nuke_from": "bell", "servidor": "default", "data": "25/05/2026 00:11"},
     {"order_id": 245, "nuke_from": "acc", "servidor": "default", "data": "25/05/2026 00:11"},
     {"order_id": 246, "nuke_from": "acc", "servidor": "default", "data": "25/05/2026 00:11"},
-    {"order_id": 247, "nuke_from": "start_sound", "servidor": "default", "data": "27/05/2026 17:01"}
+    {"order_id": 247, "nuke_from": "start_sound", "servidor": "default", "data": "27/05/2026 17:01"},
+    {"order_id": 248, "nuke_from": "acc", "servidor": "default", "data": "27/05/2026 17:23"}
   ]
 }
