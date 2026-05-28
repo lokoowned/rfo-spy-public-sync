@@ -4021,5 +4021,65 @@
       "OneStaks",
       "Picing"
     ]
+  },
+  {
+    "cw": "cw3",
+    "server": "default",
+    "date": "2026-05-28",
+    "online": [
+      "HajiYanto",
+      "xGODSPEED",
+      "Gio",
+      "BlackBeard",
+      "Damager",
+      "ARKANO",
+      "Jet",
+      "xGrom",
+      "DarkHermes",
+      "xLokoOwneD"
+    ],
+    "offline": [
+      "Jhin",
+      "Tugella",
+      "J4HAD",
+      "NewNoise",
+      "FusionKnight",
+      "SOUNDWAVE",
+      "TheBest",
+      "BooDa",
+      "ICB",
+      "OneStaks",
+      "Picing"
+    ]
+  },
+  {
+    "cw": "cw3",
+    "server": "default",
+    "date": "2026-05-28",
+    "online": [
+      "HajiYanto",
+      "xGODSPEED",
+      "Gio",
+      "ARKANO",
+      "BlackBeard",
+      "Damager",
+      "Jet",
+      "xGrom",
+      "DarkHermes",
+      "xLokoOwneD"
+    ],
+    "offline": [
+      "Jhin",
+      "Tugella",
+      "J4HAD",
+      "NewNoise",
+      "FusionKnight",
+      "SOUNDWAVE",
+      "TheBest",
+      "BooDa",
+      "OneStaks",
+      "ICB",
+      "Picing"
+    ]
   }
 ]
