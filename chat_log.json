@@ -2031,5 +2031,7 @@
   {"data": "05/28 17:03", "race": "bell", "mensagem": "stay : masuk"},
   {"data": "05/28 17:03", "race": "bell", "mensagem": "stay : masuk"},
   {"data": "05/28 17:03", "race": "acc", "mensagem": "dementor : 20% hsk"},
-  {"data": "05/28 17:03", "race": "acc", "mensagem": "borispozitive : kill hsk"}
+  {"data": "05/28 17:03", "race": "acc", "mensagem": "borispozitive : kill hsk"},
+  {"data": "05/28 17:03", "race": "acc", "mensagem": "borispozitive : 10%"},
+  {"data": "05/28 17:03", "race": "bell", "mensagem": "stay : masuk"}
 ]
