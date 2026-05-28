@@ -4081,5 +4081,65 @@
       "ICB",
       "Picing"
     ]
+  },
+  {
+    "cw": "cw3",
+    "server": "default",
+    "date": "2026-05-28",
+    "online": [
+      "Gio",
+      "HajiYanto",
+      "xGODSPEED",
+      "ARKANO",
+      "BlackBeard",
+      "Jet",
+      "Damager",
+      "xGrom",
+      "xLokoOwneD"
+    ],
+    "offline": [
+      "Jhin",
+      "NewNoise",
+      "Tugella",
+      "J4HAD",
+      "FusionKnight",
+      "SOUNDWAVE",
+      "TheBest",
+      "BooDa",
+      "DarkHermes",
+      "ICB",
+      "OneStaks",
+      "Picing"
+    ]
+  },
+  {
+    "cw": "cw3",
+    "server": "default",
+    "date": "2026-05-28",
+    "online": [
+      "HajiYanto",
+      "Gio",
+      "xGODSPEED",
+      "BlackBeard",
+      "Damager",
+      "ARKANO",
+      "xGrom",
+      "Jet",
+      "OneStaks",
+      "xLokoOwneD"
+    ],
+    "offline": [
+      "Jhin",
+      "NewNoise",
+      "Tugella",
+      "J4HAD",
+      "SOUNDWAVE",
+      "FusionKnight",
+      "BooDa",
+      "TheBest",
+      "DarkHermes",
+      "ICB",
+      "Picing"
+    ]
   }
 ]
