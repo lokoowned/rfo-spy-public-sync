@@ -2049,5 +2049,7 @@
   {"data": "05/28 17:04", "race": "acc", "mensagem": "dementor : 0%"},
   {"data": "05/28 17:04", "race": "bell", "mensagem": "stay : go inside"},
   {"data": "05/28 17:04", "race": "bell", "mensagem": "stay : go inside"},
-  {"data": "05/28 17:04", "race": "bell", "mensagem": "enchantd : nt"}
+  {"data": "05/28 17:04", "race": "bell", "mensagem": "enchantd : nt"},
+  {"data": "05/28 17:04", "race": "bell", "mensagem": "stay : nt"},
+  {"data": "05/28 17:04", "race": "bell", "mensagem": "jet : nt2"}
 ]
