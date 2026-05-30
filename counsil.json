@@ -7561,5 +7561,65 @@
       "OneStaks",
       "xLokoOwneD"
     ]
+  },
+  {
+    "cw": "manual",
+    "server": "default",
+    "date": "2026-05-30",
+    "online": [
+      "HajiYanto",
+      "Gio",
+      "xGODSPEED",
+      "Tugella",
+      "ARKANO",
+      "Jet",
+      "Damager",
+      "TheBest",
+      "ICB"
+    ],
+    "offline": [
+      "Jhin",
+      "NewNoise",
+      "J4HAD",
+      "FusionKnight",
+      "BlackBeard",
+      "SOUNDWAVE",
+      "DarkHermes",
+      "xGrom",
+      "BooDa",
+      "Picing",
+      "OneStaks",
+      "xLokoOwneD"
+    ]
+  },
+  {
+    "cw": "manual",
+    "server": "default",
+    "date": "2026-05-30",
+    "online": [
+      "HajiYanto",
+      "Gio",
+      "xGODSPEED",
+      "NewNoise",
+      "Tugella",
+      "Damager",
+      "ARKANO",
+      "Jet",
+      "TheBest",
+      "ICB"
+    ],
+    "offline": [
+      "Jhin",
+      "BlackBeard",
+      "J4HAD",
+      "FusionKnight",
+      "SOUNDWAVE",
+      "DarkHermes",
+      "xGrom",
+      "BooDa",
+      "Picing",
+      "OneStaks",
+      "xLokoOwneD"
+    ]
   }
 ]
