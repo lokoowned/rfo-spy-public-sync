@@ -8221,5 +8221,35 @@
       "ICB",
       "Picing"
     ]
+  },
+  {
+    "cw": "manual",
+    "server": "default",
+    "date": "2026-05-30",
+    "online": [
+      "HajiYanto",
+      "Gio",
+      "xGODSPEED",
+      "Tugella",
+      "J4HAD",
+      "Damager",
+      "ARKANO",
+      "Jet",
+      "TheBest",
+      "DarkHermes"
+    ],
+    "offline": [
+      "Jhin",
+      "NewNoise",
+      "BlackBeard",
+      "SOUNDWAVE",
+      "FusionKnight",
+      "xGrom",
+      "BooDa",
+      "OneStaks",
+      "xLokoOwneD",
+      "ICB",
+      "Picing"
+    ]
   }
 ]
