@@ -2774,5 +2774,7 @@
   {"data": "05/30 11:59", "race": "bell", "mensagem": "jet : perang"},
   {"data": "05/30 11:59", "race": "bell", "mensagem": "jet : acc"},
   {"data": "05/30 11:59", "race": "bell", "mensagem": "jet : sama cora"},
-  {"data": "05/30 11:59", "race": "acc", "mensagem": "borispozitive :  rg"}
+  {"data": "05/30 11:59", "race": "acc", "mensagem": "borispozitive :  rg"},
+  {"data": "05/30 11:59", "race": "bell", "mensagem": "jet : di gap cora"},
+  {"data": "05/30 12:00", "race": "bell", "mensagem": "jet : scan"}
 ]
