@@ -14,24 +14,9 @@
       "spot": "Consul Elected"
     },
     {
-      "nickname": "Stay",
-      "race": "bell",
-      "spot": "Deff Team Elected"
-    },
-    {
-      "nickname": "Damager",
-      "race": "acc",
-      "spot": "Attk Team Elected"
-    },
-    {
       "nickname": "ARKANO",
       "race": "bell",
       "spot": "Support Team Elected"
-    },
-    {
-      "nickname": "Jhin",
-      "race": "acc",
-      "spot": "Deff Team Elected"
     },
     {
       "nickname": "Tugella",
@@ -39,28 +24,13 @@
       "spot": "Consul Appointed"
     },
     {
-      "nickname": "RasssL",
-      "race": "acc",
-      "spot": "Support Team Elected"
-    },
-    {
       "nickname": "Jet",
       "race": "bell",
       "spot": "Attk Team Appointed"
     },
     {
-      "nickname": "pelmen",
-      "race": "acc",
-      "spot": "Deff Team Appointed"
-    },
-    {
       "nickname": "Enchantd",
       "race": "bell",
-      "spot": "Support Team Appointed"
-    },
-    {
-      "nickname": "DQMary",
-      "race": "acc",
       "spot": "Support Team Appointed"
     }
   ],
@@ -71,9 +41,24 @@
       "spot": "Race Leader"
     },
     {
+      "nickname": "Damager",
+      "race": "acc",
+      "spot": "Attk Team Elected"
+    },
+    {
+      "nickname": "Jhin",
+      "race": "acc",
+      "spot": "Deff Team Elected"
+    },
+    {
       "nickname": "xCabi",
       "race": "bell",
       "spot": "Consul Elected"
+    },
+    {
+      "nickname": "RasssL",
+      "race": "acc",
+      "spot": "Support Team Elected"
     },
     {
       "nickname": "Den4ik[ST]",
@@ -86,14 +71,19 @@
       "spot": "Consul Appointed"
     },
     {
-      "nickname": "FusionKnight",
+      "nickname": "Stay",
       "race": "bell",
+      "spot": "Deff Team Elected"
+    },
+    {
+      "nickname": "pelmen",
+      "race": "acc",
       "spot": "Deff Team Appointed"
     },
     {
-      "nickname": "ICB",
-      "race": "",
-      "spot": ""
+      "nickname": "DQMary",
+      "race": "acc",
+      "spot": "Support Team Appointed"
     },
     {
       "nickname": "xLokoOwneD",
@@ -101,8 +91,18 @@
       "spot": "Race Leader"
     },
     {
+      "nickname": "FusionKnight",
+      "race": "bell",
+      "spot": "Deff Team Appointed"
+    },
+    {
+      "nickname": "ICB",
+      "race": "bell",
+      "spot": ""
+    },
+    {
       "nickname": "Picing",
-      "race": "",
+      "race": "bell",
       "spot": ""
     }
   ]
