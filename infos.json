@@ -42,5 +42,6 @@
   {"data": "30/05/2026 07:57", "info": "Movimentando", "msgtype": "warning", "race": "acc"},
   {"data": "30/05/2026 07:59", "info": "Movimentando", "msgtype": "warning", "race": "acc"},
   {"data": "30/05/2026 08:00", "info": "Movimentando", "msgtype": "warning", "race": "bell"},
-  {"data": "30/05/2026 08:07", "info": "Movimentando", "msgtype": "warning", "race": "bell"}
+  {"data": "30/05/2026 08:07", "info": "Movimentando", "msgtype": "warning", "race": "bell"},
+  {"data": "30/05/2026 08:09", "info": "Movimentando", "msgtype": "warning", "race": "bell"}
 ]
