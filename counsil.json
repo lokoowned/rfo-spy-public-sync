@@ -1,12 +1,23 @@
 {
   "cw": "manual",
   "server": "default",
-  "date": "2026-05-30",
-  "online": [
+  "date": "2026-05-31",
+  "online": [],
+  "offline": [
+    {
+      "nickname": "HajiYanto",
+      "race": "bell",
+      "spot": "Race Leader"
+    },
     {
       "nickname": "BorisPozitive",
       "race": "acc",
       "spot": "Race Leader"
+    },
+    {
+      "nickname": "xCabi",
+      "race": "bell",
+      "spot": "Consul Elected"
     },
     {
       "nickname": "Dementor",
@@ -14,9 +25,34 @@
       "spot": "Consul Elected"
     },
     {
+      "nickname": "Damager",
+      "race": "acc",
+      "spot": "Attk Team Elected"
+    },
+    {
+      "nickname": "Jhin",
+      "race": "acc",
+      "spot": "Deff Team Elected"
+    },
+    {
+      "nickname": "Den4ik[ST]",
+      "race": "bell",
+      "spot": "Attk Team Elected"
+    },
+    {
+      "nickname": "RasssL",
+      "race": "acc",
+      "spot": "Support Team Elected"
+    },
+    {
       "nickname": "Stay",
       "race": "bell",
       "spot": "Deff Team Elected"
+    },
+    {
+      "nickname": "SOUNDWAVE",
+      "race": "acc",
+      "spot": "Consul Appointed"
     },
     {
       "nickname": "ARKANO",
@@ -24,9 +60,9 @@
       "spot": "Support Team Elected"
     },
     {
-      "nickname": "RasssL",
+      "nickname": "pelmen",
       "race": "acc",
-      "spot": "Support Team Elected"
+      "spot": "Deff Team Appointed"
     },
     {
       "nickname": "Tugella",
@@ -44,61 +80,24 @@
       "spot": "Support Team Appointed"
     },
     {
-      "nickname": "Enchantd",
-      "race": "bell",
-      "spot": "Support Team Appointed"
-    }
-  ],
-  "offline": [
-    {
-      "nickname": "HajiYanto",
-      "race": "bell",
-      "spot": "Race Leader"
-    },
-    {
-      "nickname": "xCabi",
-      "race": "bell",
-      "spot": "Consul Elected"
-    },
-    {
-      "nickname": "Den4ik[ST]",
-      "race": "bell",
-      "spot": "Attk Team Elected"
-    },
-    {
-      "nickname": "Damager",
-      "race": "acc",
-      "spot": "Attk Team Elected"
-    },
-    {
-      "nickname": "Jhin",
-      "race": "acc",
-      "spot": "Deff Team Elected"
-    },
-    {
-      "nickname": "SOUNDWAVE",
-      "race": "acc",
-      "spot": "Consul Appointed"
-    },
-    {
-      "nickname": "pelmen",
-      "race": "acc",
-      "spot": "Deff Team Appointed"
-    },
-    {
       "nickname": "FusionKnight",
       "race": "bell",
       "spot": "Deff Team Appointed"
     },
     {
-      "nickname": "xLokoOwneD",
-      "race": "cora",
-      "spot": "Race Leader"
+      "nickname": "Enchantd",
+      "race": "bell",
+      "spot": "Support Team Appointed"
     },
     {
       "nickname": "ICB",
       "race": "bell",
       "spot": ""
+    },
+    {
+      "nickname": "xLokoOwneD",
+      "race": "cora",
+      "spot": "Race Leader"
     },
     {
       "nickname": "Picing",
