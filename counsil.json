@@ -30,14 +30,19 @@
       "spot": "Attk Team Elected"
     },
     {
-      "nickname": "Stay",
-      "race": "bell",
-      "spot": "Deff Team Elected"
-    },
-    {
       "nickname": "Damager",
       "race": "acc",
       "spot": "Attk Team Elected"
+    },
+    {
+      "nickname": "Jhin",
+      "race": "acc",
+      "spot": "Deff Team Elected"
+    },
+    {
+      "nickname": "Stay",
+      "race": "bell",
+      "spot": "Deff Team Elected"
     },
     {
       "nickname": "ARKANO",
@@ -50,9 +55,9 @@
       "spot": "Consul Appointed"
     },
     {
-      "nickname": "Jhin",
+      "nickname": "RasssL",
       "race": "acc",
-      "spot": "Deff Team Elected"
+      "spot": "Support Team Elected"
     },
     {
       "nickname": "Jet",
@@ -60,24 +65,9 @@
       "spot": "Attk Team Appointed"
     },
     {
-      "nickname": "RasssL",
-      "race": "acc",
-      "spot": "Support Team Elected"
-    },
-    {
-      "nickname": "FusionKnight",
-      "race": "bell",
-      "spot": "Deff Team Appointed"
-    },
-    {
       "nickname": "SOUNDWAVE",
       "race": "acc",
       "spot": "Consul Appointed"
-    },
-    {
-      "nickname": "Enchantd",
-      "race": "bell",
-      "spot": "Support Team Appointed"
     },
     {
       "nickname": "pelmen",
@@ -85,14 +75,24 @@
       "spot": "Deff Team Appointed"
     },
     {
-      "nickname": "ICB",
-      "race": "bell",
-      "spot": ""
-    },
-    {
       "nickname": "DQMary",
       "race": "acc",
       "spot": "Support Team Appointed"
+    },
+    {
+      "nickname": "FusionKnight",
+      "race": "bell",
+      "spot": "Deff Team Appointed"
+    },
+    {
+      "nickname": "Enchantd",
+      "race": "bell",
+      "spot": "Support Team Appointed"
+    },
+    {
+      "nickname": "ICB",
+      "race": "bell",
+      "spot": ""
     },
     {
       "nickname": "xLokoOwneD",
