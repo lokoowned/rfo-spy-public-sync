@@ -1,5 +1,5 @@
 {
-  "cw": "manual",
+  "cw": "cw1",
   "server": "default",
   "date": "2026-05-31",
   "online": [],
@@ -25,24 +25,9 @@
       "spot": "Consul Elected"
     },
     {
-      "nickname": "Damager",
-      "race": "acc",
-      "spot": "Attk Team Elected"
-    },
-    {
-      "nickname": "Jhin",
-      "race": "acc",
-      "spot": "Deff Team Elected"
-    },
-    {
       "nickname": "Den4ik[ST]",
       "race": "bell",
       "spot": "Attk Team Elected"
-    },
-    {
-      "nickname": "RasssL",
-      "race": "acc",
-      "spot": "Support Team Elected"
     },
     {
       "nickname": "Stay",
@@ -50,9 +35,9 @@
       "spot": "Deff Team Elected"
     },
     {
-      "nickname": "SOUNDWAVE",
+      "nickname": "Damager",
       "race": "acc",
-      "spot": "Consul Appointed"
+      "spot": "Attk Team Elected"
     },
     {
       "nickname": "ARKANO",
@@ -60,14 +45,14 @@
       "spot": "Support Team Elected"
     },
     {
-      "nickname": "pelmen",
-      "race": "acc",
-      "spot": "Deff Team Appointed"
-    },
-    {
       "nickname": "Tugella",
       "race": "bell",
       "spot": "Consul Appointed"
+    },
+    {
+      "nickname": "Jhin",
+      "race": "acc",
+      "spot": "Deff Team Elected"
     },
     {
       "nickname": "Jet",
@@ -75,9 +60,9 @@
       "spot": "Attk Team Appointed"
     },
     {
-      "nickname": "DQMary",
+      "nickname": "RasssL",
       "race": "acc",
-      "spot": "Support Team Appointed"
+      "spot": "Support Team Elected"
     },
     {
       "nickname": "FusionKnight",
@@ -85,14 +70,29 @@
       "spot": "Deff Team Appointed"
     },
     {
+      "nickname": "SOUNDWAVE",
+      "race": "acc",
+      "spot": "Consul Appointed"
+    },
+    {
       "nickname": "Enchantd",
       "race": "bell",
       "spot": "Support Team Appointed"
     },
     {
+      "nickname": "pelmen",
+      "race": "acc",
+      "spot": "Deff Team Appointed"
+    },
+    {
       "nickname": "ICB",
       "race": "bell",
       "spot": ""
+    },
+    {
+      "nickname": "DQMary",
+      "race": "acc",
+      "spot": "Support Team Appointed"
     },
     {
       "nickname": "xLokoOwneD",
