@@ -4,5 +4,6 @@
   {"data": "26/05/2026 16:16", "info": "[AutoLogin] goplay.png não encontrado em 15s (conta '!loko'). Verifique se o launcher está aberto e se a imagem está em E:\\Projetos\\RFOnline\\Finalizados e funcionais\\RF Online - KOI Project\\Host - RF Online War Controller\\scripts\\autologin\\img\\localtest\\goplay.png", "msgtype": "error"},
   {"data": "26/05/2026 16:16", "info": "[AutoLogin] Confirmação de login falhou para 'x9eVALA' (tentativa 1/3)", "msgtype": "error"},
   {"data": "26/05/2026 16:17", "info": "[AutoLogin] goplay.png não encontrado em 15s (conta '!loko2'). Verifique se o launcher está aberto e se a imagem está em E:\\Projetos\\RFOnline\\Finalizados e funcionais\\RF Online - KOI Project\\Host - RF Online War Controller\\scripts\\autologin\\img\\localtest\\goplay.png", "msgtype": "error"},
-  {"data": "30/05/2026 23:58", "info": "Movimentando", "msgtype": "warning", "race": "bell"}
+  {"data": "30/05/2026 23:58", "info": "Movimentando", "msgtype": "warning", "race": "bell"},
+  {"data": "31/05/2026 00:08", "info": "Movimentando", "msgtype": "warning", "race": "bell"}
 ]
