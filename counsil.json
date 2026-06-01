@@ -2,8 +2,7 @@
   "cw": "cw1",
   "server": "default",
   "date": "2026-05-31",
-  "online": [],
-  "offline": [
+  "online": [
     {
       "nickname": "HajiYanto",
       "race": "bell",
@@ -23,7 +22,9 @@
       "nickname": "Dementor",
       "race": "acc",
       "spot": "Consul Elected"
-    },
+    }
+  ],
+  "offline": [
     {
       "nickname": "Den4ik[ST]",
       "race": "bell",
