@@ -30,18 +30,8 @@
       "spot": "Attk Team Elected"
     },
     {
-      "nickname": "Akril",
-      "race": "acc",
-      "spot": "Attk Team Elected"
-    },
-    {
       "nickname": "Uda",
       "race": "bell",
-      "spot": "Deff Team Elected"
-    },
-    {
-      "nickname": "Loy",
-      "race": "acc",
       "spot": "Deff Team Elected"
     },
     {
@@ -50,14 +40,19 @@
       "spot": "Support Team Elected"
     },
     {
+      "nickname": "Akril",
+      "race": "acc",
+      "spot": "Attk Team Elected"
+    },
+    {
       "nickname": "TheBest",
       "race": "bell",
       "spot": "Consul Appointed"
     },
     {
-      "nickname": "HOTMAX",
+      "nickname": "Loy",
       "race": "acc",
-      "spot": "Support Team Elected"
+      "spot": "Deff Team Elected"
     },
     {
       "nickname": "Tugella",
@@ -65,9 +60,9 @@
       "spot": "Attk Team Appointed"
     },
     {
-      "nickname": "RasssL",
+      "nickname": "HOTMAX",
       "race": "acc",
-      "spot": "Consul Appointed"
+      "spot": "Support Team Elected"
     },
     {
       "nickname": "TvoiCrash",
@@ -75,9 +70,9 @@
       "spot": "Deff Team Appointed"
     },
     {
-      "nickname": "MrHooK",
+      "nickname": "RasssL",
       "race": "acc",
-      "spot": "Attk Team Appointed"
+      "spot": "Consul Appointed"
     },
     {
       "nickname": "splattikk",
@@ -85,9 +80,9 @@
       "spot": "Support Team Appointed"
     },
     {
-      "nickname": "pelmen",
+      "nickname": "MrHooK",
       "race": "acc",
-      "spot": "Deff Team Appointed"
+      "spot": "Attk Team Appointed"
     },
     {
       "nickname": "ICB",
@@ -95,14 +90,19 @@
       "spot": ""
     },
     {
-      "nickname": "MadMax",
+      "nickname": "pelmen",
       "race": "acc",
-      "spot": "Support Team Appointed"
+      "spot": "Deff Team Appointed"
     },
     {
       "nickname": "xLokoOwneD",
       "race": "cora",
       "spot": "Support Team Elected"
+    },
+    {
+      "nickname": "MadMax",
+      "race": "acc",
+      "spot": "Support Team Appointed"
     },
     {
       "nickname": "Picing",
