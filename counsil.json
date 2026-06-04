@@ -50,24 +50,14 @@
       "spot": "Support Team Elected"
     },
     {
-      "nickname": "HOTMAX",
-      "race": "acc",
-      "spot": "Support Team Elected"
-    },
-    {
       "nickname": "TheBest",
       "race": "bell",
       "spot": "Consul Appointed"
     },
     {
-      "nickname": "RasssL",
+      "nickname": "HOTMAX",
       "race": "acc",
-      "spot": "Consul Appointed"
-    },
-    {
-      "nickname": "MrHooK",
-      "race": "acc",
-      "spot": "Attk Team Appointed"
+      "spot": "Support Team Elected"
     },
     {
       "nickname": "Tugella",
@@ -75,9 +65,9 @@
       "spot": "Attk Team Appointed"
     },
     {
-      "nickname": "pelmen",
+      "nickname": "RasssL",
       "race": "acc",
-      "spot": "Deff Team Appointed"
+      "spot": "Consul Appointed"
     },
     {
       "nickname": "TvoiCrash",
@@ -85,14 +75,14 @@
       "spot": "Deff Team Appointed"
     },
     {
-      "nickname": "MadMax",
-      "race": "acc",
-      "spot": "Support Team Appointed"
-    },
-    {
       "nickname": "splattikk",
       "race": "bell",
       "spot": "Support Team Appointed"
+    },
+    {
+      "nickname": "MrHooK",
+      "race": "acc",
+      "spot": "Attk Team Appointed"
     },
     {
       "nickname": "ICB",
@@ -100,9 +90,19 @@
       "spot": ""
     },
     {
+      "nickname": "pelmen",
+      "race": "acc",
+      "spot": "Deff Team Appointed"
+    },
+    {
       "nickname": "xLokoOwneD",
       "race": "cora",
       "spot": "Support Team Elected"
+    },
+    {
+      "nickname": "MadMax",
+      "race": "acc",
+      "spot": "Support Team Appointed"
     },
     {
       "nickname": "Picing",
