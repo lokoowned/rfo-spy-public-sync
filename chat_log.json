@@ -68,5 +68,7 @@
   {"data": "06/04 00:33", "race": "acc", "mensagem": "hotmax : ffff"},
   {"data": "06/04 00:53", "race": "acc", "mensagem": "hotmax : go deff all"},
   {"data": "06/04 06:19", "race": "acc", "mensagem": "damager :            +5"},
-  {"data": "06/04 06:25", "race": "acc", "mensagem": "damager :            +5"}
+  {"data": "06/04 06:25", "race": "acc", "mensagem": "damager :            +5"},
+  {"data": "06/04 06:51", "race": "acc", "mensagem": "damager :   50"},
+  {"data": "06/04 07:03", "race": "acc", "mensagem": "madmax :  2"}
 ]
