@@ -5,19 +5,14 @@
   "online": [],
   "offline": [
     {
-      "nickname": "Damager",
-      "race": "acc",
-      "spot": "Race Leader"
-    },
-    {
       "nickname": "Den4ik[ST]",
       "race": "bell",
       "spot": "Race Leader"
     },
     {
-      "nickname": "HajiYanto",
-      "race": "bell",
-      "spot": "Consul Elected"
+      "nickname": "Damager",
+      "race": "acc",
+      "spot": "Race Leader"
     },
     {
       "nickname": "BorisPozitive",
@@ -25,9 +20,9 @@
       "spot": "Consul Elected"
     },
     {
-      "nickname": "xCabi",
+      "nickname": "HajiYanto",
       "race": "bell",
-      "spot": "Attk Team Elected"
+      "spot": "Consul Elected"
     },
     {
       "nickname": "Akril",
@@ -35,9 +30,9 @@
       "spot": "Attk Team Elected"
     },
     {
-      "nickname": "Uda",
+      "nickname": "xCabi",
       "race": "bell",
-      "spot": "Deff Team Elected"
+      "spot": "Attk Team Elected"
     },
     {
       "nickname": "Loy",
@@ -45,13 +40,18 @@
       "spot": "Deff Team Elected"
     },
     {
-      "nickname": "ARKANO",
+      "nickname": "Uda",
       "race": "bell",
-      "spot": "Support Team Elected"
+      "spot": "Deff Team Elected"
     },
     {
       "nickname": "HOTMAX",
       "race": "acc",
+      "spot": "Support Team Elected"
+    },
+    {
+      "nickname": "ARKANO",
+      "race": "bell",
       "spot": "Support Team Elected"
     },
     {
@@ -75,19 +75,9 @@
       "spot": "Attk Team Appointed"
     },
     {
-      "nickname": "pelmen",
-      "race": "acc",
-      "spot": "Deff Team Appointed"
-    },
-    {
       "nickname": "TvoiCrash",
       "race": "bell",
       "spot": "Deff Team Appointed"
-    },
-    {
-      "nickname": "MadMax",
-      "race": "acc",
-      "spot": "Support Team Appointed"
     },
     {
       "nickname": "splattikk",
@@ -100,9 +90,19 @@
       "spot": ""
     },
     {
+      "nickname": "pelmen",
+      "race": "acc",
+      "spot": "Deff Team Appointed"
+    },
+    {
       "nickname": "xLokoOwneD",
       "race": "cora",
       "spot": "Support Team Elected"
+    },
+    {
+      "nickname": "MadMax",
+      "race": "acc",
+      "spot": "Support Team Appointed"
     },
     {
       "nickname": "Picing",
