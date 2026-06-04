@@ -15,19 +15,14 @@
       "spot": "Race Leader"
     },
     {
-      "nickname": "BorisPozitive",
-      "race": "acc",
-      "spot": "Consul Elected"
-    },
-    {
       "nickname": "HajiYanto",
       "race": "bell",
       "spot": "Consul Elected"
     },
     {
-      "nickname": "Akril",
+      "nickname": "BorisPozitive",
       "race": "acc",
-      "spot": "Attk Team Elected"
+      "spot": "Consul Elected"
     },
     {
       "nickname": "xCabi",
@@ -35,9 +30,9 @@
       "spot": "Attk Team Elected"
     },
     {
-      "nickname": "Loy",
+      "nickname": "Akril",
       "race": "acc",
-      "spot": "Deff Team Elected"
+      "spot": "Attk Team Elected"
     },
     {
       "nickname": "Uda",
@@ -45,13 +40,18 @@
       "spot": "Deff Team Elected"
     },
     {
-      "nickname": "HOTMAX",
+      "nickname": "Loy",
       "race": "acc",
-      "spot": "Support Team Elected"
+      "spot": "Deff Team Elected"
     },
     {
       "nickname": "ARKANO",
       "race": "bell",
+      "spot": "Support Team Elected"
+    },
+    {
+      "nickname": "HOTMAX",
+      "race": "acc",
       "spot": "Support Team Elected"
     },
     {
