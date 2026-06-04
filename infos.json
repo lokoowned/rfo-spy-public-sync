@@ -9,5 +9,6 @@
   {"data": "31/05/2026 00:10", "info": "Movimentando", "msgtype": "warning", "race": "bell"},
   {"data": "31/05/2026 00:12", "info": "Movimentando", "msgtype": "warning", "race": "bell"},
   {"data": "04/06/2026 00:29", "info": "Movimentando", "msgtype": "warning", "race": "acc"},
-  {"data": "04/06/2026 07:58", "info": "Movimentando", "msgtype": "warning", "race": "acc"}
+  {"data": "04/06/2026 07:58", "info": "Movimentando", "msgtype": "warning", "race": "acc"},
+  {"data": "04/06/2026 08:12", "info": "Movimentando", "msgtype": "warning", "race": "acc"}
 ]
