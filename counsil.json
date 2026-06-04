@@ -65,19 +65,9 @@
       "spot": "Consul Appointed"
     },
     {
-      "nickname": "MrHooK",
-      "race": "acc",
-      "spot": "Attk Team Appointed"
-    },
-    {
       "nickname": "Tugella",
       "race": "bell",
       "spot": "Attk Team Appointed"
-    },
-    {
-      "nickname": "pelmen",
-      "race": "acc",
-      "spot": "Deff Team Appointed"
     },
     {
       "nickname": "TvoiCrash",
@@ -85,9 +75,9 @@
       "spot": "Deff Team Appointed"
     },
     {
-      "nickname": "MadMax",
+      "nickname": "MrHooK",
       "race": "acc",
-      "spot": "Support Team Appointed"
+      "spot": "Attk Team Appointed"
     },
     {
       "nickname": "splattikk",
@@ -95,9 +85,19 @@
       "spot": "Support Team Appointed"
     },
     {
+      "nickname": "pelmen",
+      "race": "acc",
+      "spot": "Deff Team Appointed"
+    },
+    {
       "nickname": "ICB",
       "race": "bell",
       "spot": ""
+    },
+    {
+      "nickname": "MadMax",
+      "race": "acc",
+      "spot": "Support Team Appointed"
     },
     {
       "nickname": "xLokoOwneD",
