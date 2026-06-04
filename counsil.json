@@ -35,19 +35,9 @@
       "spot": "Attk Team Elected"
     },
     {
-      "nickname": "Uda",
-      "race": "bell",
-      "spot": "Deff Team Elected"
-    },
-    {
       "nickname": "Loy",
       "race": "acc",
       "spot": "Deff Team Elected"
-    },
-    {
-      "nickname": "ARKANO",
-      "race": "bell",
-      "spot": "Support Team Elected"
     },
     {
       "nickname": "HOTMAX",
@@ -55,14 +45,19 @@
       "spot": "Support Team Elected"
     },
     {
+      "nickname": "Uda",
+      "race": "bell",
+      "spot": "Deff Team Elected"
+    },
+    {
       "nickname": "RasssL",
       "race": "acc",
       "spot": "Consul Appointed"
     },
     {
-      "nickname": "MrHooK",
-      "race": "acc",
-      "spot": "Attk Team Appointed"
+      "nickname": "ARKANO",
+      "race": "bell",
+      "spot": "Support Team Elected"
     },
     {
       "nickname": "TheBest",
@@ -70,24 +65,29 @@
       "spot": "Consul Appointed"
     },
     {
-      "nickname": "pelmen",
-      "race": "acc",
-      "spot": "Deff Team Appointed"
-    },
-    {
       "nickname": "Tugella",
       "race": "bell",
       "spot": "Attk Team Appointed"
     },
     {
-      "nickname": "MadMax",
+      "nickname": "MrHooK",
       "race": "acc",
-      "spot": "Support Team Appointed"
+      "spot": "Attk Team Appointed"
+    },
+    {
+      "nickname": "pelmen",
+      "race": "acc",
+      "spot": "Deff Team Appointed"
     },
     {
       "nickname": "TvoiCrash",
       "race": "bell",
       "spot": "Deff Team Appointed"
+    },
+    {
+      "nickname": "MadMax",
+      "race": "acc",
+      "spot": "Support Team Appointed"
     },
     {
       "nickname": "splattikk",
