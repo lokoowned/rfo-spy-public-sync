@@ -30,29 +30,14 @@
       "spot": "Attk Team Elected"
     },
     {
-      "nickname": "Akril",
-      "race": "acc",
-      "spot": "Attk Team Elected"
-    },
-    {
-      "nickname": "Loy",
-      "race": "acc",
-      "spot": "Deff Team Elected"
-    },
-    {
-      "nickname": "HOTMAX",
-      "race": "acc",
-      "spot": "Support Team Elected"
-    },
-    {
       "nickname": "Uda",
       "race": "bell",
       "spot": "Deff Team Elected"
     },
     {
-      "nickname": "RasssL",
+      "nickname": "Akril",
       "race": "acc",
-      "spot": "Consul Appointed"
+      "spot": "Attk Team Elected"
     },
     {
       "nickname": "ARKANO",
@@ -60,9 +45,9 @@
       "spot": "Support Team Elected"
     },
     {
-      "nickname": "MrHooK",
+      "nickname": "Loy",
       "race": "acc",
-      "spot": "Attk Team Appointed"
+      "spot": "Deff Team Elected"
     },
     {
       "nickname": "TheBest",
@@ -70,9 +55,9 @@
       "spot": "Consul Appointed"
     },
     {
-      "nickname": "pelmen",
+      "nickname": "HOTMAX",
       "race": "acc",
-      "spot": "Deff Team Appointed"
+      "spot": "Support Team Elected"
     },
     {
       "nickname": "Tugella",
@@ -80,14 +65,19 @@
       "spot": "Attk Team Appointed"
     },
     {
-      "nickname": "MadMax",
+      "nickname": "RasssL",
       "race": "acc",
-      "spot": "Support Team Appointed"
+      "spot": "Consul Appointed"
     },
     {
       "nickname": "TvoiCrash",
       "race": "bell",
       "spot": "Deff Team Appointed"
+    },
+    {
+      "nickname": "MrHooK",
+      "race": "acc",
+      "spot": "Attk Team Appointed"
     },
     {
       "nickname": "splattikk",
@@ -100,9 +90,19 @@
       "spot": ""
     },
     {
+      "nickname": "pelmen",
+      "race": "acc",
+      "spot": "Deff Team Appointed"
+    },
+    {
       "nickname": "xLokoOwneD",
       "race": "cora",
       "spot": "Support Team Elected"
+    },
+    {
+      "nickname": "MadMax",
+      "race": "acc",
+      "spot": "Support Team Appointed"
     },
     {
       "nickname": "Picing",
