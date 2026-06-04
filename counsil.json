@@ -15,19 +15,9 @@
       "spot": "Race Leader"
     },
     {
-      "nickname": "HajiYanto",
-      "race": "bell",
-      "spot": "Consul Elected"
-    },
-    {
       "nickname": "BorisPozitive",
       "race": "acc",
       "spot": "Consul Elected"
-    },
-    {
-      "nickname": "xCabi",
-      "race": "bell",
-      "spot": "Attk Team Elected"
     },
     {
       "nickname": "Akril",
@@ -35,9 +25,9 @@
       "spot": "Attk Team Elected"
     },
     {
-      "nickname": "Uda",
+      "nickname": "HajiYanto",
       "race": "bell",
-      "spot": "Deff Team Elected"
+      "spot": "Consul Elected"
     },
     {
       "nickname": "Loy",
@@ -45,9 +35,9 @@
       "spot": "Deff Team Elected"
     },
     {
-      "nickname": "ARKANO",
+      "nickname": "xCabi",
       "race": "bell",
-      "spot": "Support Team Elected"
+      "spot": "Attk Team Elected"
     },
     {
       "nickname": "HOTMAX",
@@ -55,9 +45,9 @@
       "spot": "Support Team Elected"
     },
     {
-      "nickname": "TheBest",
+      "nickname": "Uda",
       "race": "bell",
-      "spot": "Consul Appointed"
+      "spot": "Deff Team Elected"
     },
     {
       "nickname": "RasssL",
@@ -65,14 +55,19 @@
       "spot": "Consul Appointed"
     },
     {
+      "nickname": "ARKANO",
+      "race": "bell",
+      "spot": "Support Team Elected"
+    },
+    {
       "nickname": "MrHooK",
       "race": "acc",
       "spot": "Attk Team Appointed"
     },
     {
-      "nickname": "Tugella",
+      "nickname": "TheBest",
       "race": "bell",
-      "spot": "Attk Team Appointed"
+      "spot": "Consul Appointed"
     },
     {
       "nickname": "pelmen",
@@ -80,14 +75,19 @@
       "spot": "Deff Team Appointed"
     },
     {
-      "nickname": "TvoiCrash",
+      "nickname": "Tugella",
       "race": "bell",
-      "spot": "Deff Team Appointed"
+      "spot": "Attk Team Appointed"
     },
     {
       "nickname": "MadMax",
       "race": "acc",
       "spot": "Support Team Appointed"
+    },
+    {
+      "nickname": "TvoiCrash",
+      "race": "bell",
+      "spot": "Deff Team Appointed"
     },
     {
       "nickname": "splattikk",
